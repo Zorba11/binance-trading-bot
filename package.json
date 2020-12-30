@@ -1,0 +1,16 @@
+{
+  "name": "binance-trading-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zorba11",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "ccxt": "^1.39.91",
+    "dotenv": "^8.2.0"
+  }
+}
